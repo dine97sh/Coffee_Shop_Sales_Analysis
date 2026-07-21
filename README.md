@@ -2,6 +2,8 @@
 
 End-to-end sales analytics project: data cleaning, feature engineering, star-schema data modeling, exploratory data analysis, hypothesis testing, and a Power BI dashboard — built on transaction-level coffee shop sales data across three NYC locations.
 
+LinkedIn Post: https://www.linkedin.com/posts/dineshtd1997_dataanalytics-powerbi-python-ugcPost-7485222058197557248-n2LD/?utm_source=share&utm_medium=member_desktop&rcm=ACoAACewmSABB95qAzIkdwrkUbkWAWU2sQZSvS4
+
 ## Project Overview
 
 This project answers real business questions about a coffee shop chain's sales performance using statistically validated methods rather than relying on visual inspection alone. It covers the full pipeline from raw transaction data to a business-ready insights report and interactive dashboard.
